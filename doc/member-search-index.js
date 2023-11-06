@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"rollingDiceSimulator","c":"rollingDiceSimulator","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"rollingDiceSimulator","c":"rollingDiceSimulator","l":"rollingDiceSimulator()","u":"%3Cinit%3E()"}];updateSearchResults();
